@@ -1,1 +1,1 @@
-# myDogsTrust
+# dogs-trust
