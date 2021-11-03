@@ -1,1 +1,71 @@
-body{background-color: cadetblue;}
+body{
+    background-color: cadetblue;
+}
+
+.card{
+    background-color: white;
+    width:200px;height:300px;
+    margin:20px;padding:10px;
+    border:solid 1px black
+}
+
+.photo{
+    max-width:180px
+}
+
+.flexy{
+    display:flex;
+    flex-wrap:wrap
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background-color: cadetblue;
+    display:flex;
+    flex-wrap:wrap
+}
+
+.card{
+    background-color: blueviolet;
+    width:300px;
+    height:400px;
+    margin:20px;
+    padding:10px;
+    border:solid 1px black
+}
+
+
+.mainHeader{text-align: center}
+
+
+
+.picture{max-width: 600px; max-height: 500px; display:block}
+
+.adoptbutton
+{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    background-color: rgb(0, 247, 255)
+}
+
+#cardHolder{display:flex;flex-wrap: wrap;justify-content: space-evenly;width:100%} 
